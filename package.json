@@ -15,7 +15,7 @@
     "mongodb": "^4.2.2",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15",
-    "sequelize": "^3.30.4",
+    "sequelize": "^6.14.1",
     "socket.io": "^4.4.0",
     "video-stream": "^1.2.1"
   },
